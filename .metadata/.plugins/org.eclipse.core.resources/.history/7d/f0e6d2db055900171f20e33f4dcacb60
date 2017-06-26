@@ -1,0 +1,10 @@
+package com.np.camel.file_copy;
+
+public class FileCopierWithCamel {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
