@@ -1,4 +1,4 @@
-Camel in Action - Chapter 5 - Error Handler Use Case
+Part - Chapter 5 - Error Handler Use Case
 ====================================================
 
 This is a simple use case example to demonstrate the error handling in Camel.

@@ -35,7 +35,7 @@ public class XmlOrderNamespaceService {
                                         @XPath(value = "/c:order/@customerId", 
                                                namespaces = @NamespacePrefix(
                                                    prefix = "c",
-                                                   uri = "http://camelinaction.com/order")) int customerId,
+                                                   uri = "http://camelnp.com/order")) int customerId,
                                         @Bean(ref = "guid", method = "generate") int orderId) {
 
         Attr attr = xml.createAttribute("orderId");

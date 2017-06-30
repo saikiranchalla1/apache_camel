@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="PurchaseOrderCsvSpringTest" project="chapter3-order" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="camelinaction.PurchaseOrderCsvSpringTest" time="4.636">
-    <testcase name="testCsv" classname="camelinaction.PurchaseOrderCsvSpringTest" time="4.636"/>
-  </testsuite>
-</testrun>

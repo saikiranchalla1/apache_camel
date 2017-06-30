@@ -35,7 +35,7 @@ public class XmlOrderTest extends CamelSpringTestSupport {
 
     @Override
     protected AbstractXmlApplicationContext createApplicationContext() {
-        return new ClassPathXmlApplicationContext("camelinaction/xmlOrder.xml");
+        return new ClassPathXmlApplicationContext("camelnp/xmlOrder.xml");
     }
 
     @Override

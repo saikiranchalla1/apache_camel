@@ -4,13 +4,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.camelinaction</groupId>
+        <groupId>com.camelnp</groupId>
         <artifactId>chapter5</artifactId>
         <version>1.0.0</version>
     </parent>
 
     <artifactId>chapter5-usecase</artifactId>
-    <name>Camel in Action :: Chapter 5 :: Error Handler Use Case</name>
+    <name>Part 5 :: Error Handler Use Case</name>
 
     <dependencies>
 
@@ -62,13 +62,13 @@
         <profile>
             <id>Server</id>
             <properties>
-                <target.main.class>camelinaction.HttpServer</target.main.class>
+                <target.main.class>camelnp.HttpServer</target.main.class>
             </properties>
         </profile>
         <profile>
             <id>Client</id>
             <properties>
-                <target.main.class>camelinaction.UseCaseMain</target.main.class>
+                <target.main.class>camelnp.UseCaseMain</target.main.class>
             </properties>
         </profile>
     </profiles>

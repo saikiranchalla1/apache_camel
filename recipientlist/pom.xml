@@ -9,7 +9,7 @@
     </parent>
 
     <artifactId>part2-recipientlist</artifactId>
-    <name>Camel in Action :: Chapter 2 :: Recipient List</name>
+    <name>Part 2 :: Recipient List</name>
 
   <dependencies>
 

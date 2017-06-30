@@ -30,7 +30,7 @@ public class InvokeWithProcessorSpringTest extends CamelSpringTestSupport {
 
     @Override
     protected AbstractXmlApplicationContext createApplicationContext() {
-        return new ClassPathXmlApplicationContext("camelinaction/InvokeWithProcessor.xml");
+        return new ClassPathXmlApplicationContext("camelnp/InvokeWithProcessor.xml");
     }
 
     @Test

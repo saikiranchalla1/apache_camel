@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/SaiKiran/Downloads/camelinaction-master/chapter5/usecase"/>
+			<item value="/Users/SaiKiran/Downloads/camelinaction-master/chapter5/onexception"/>
+			<item value="/Users/SaiKiran/Downloads/camelinaction-master/chapter5/errorhandler"/>
+			<item value="/Users/SaiKiran/Downloads/camelinaction-master/chapter4/bean"/>
+			<item value="/Users/SaiKiran/Downloads/camelinaction-master/chapter3/order"/>
+			<item value="/Users/SaiKiran/Downloads/camelinaction-master/chapter3/converter"/>
+			<item value="/Users/SaiKiran/Downloads/camelinaction-master/chapter3/transform"/>
+			<item value="/Users/SaiKiran/Downloads/camelinaction-master/chapter2/wiretap"/>
+			<item value="/Users/SaiKiran/Downloads/camelinaction-master/chapter2/recipientlist"/>
+			<item value="/Users/SaiKiran/Downloads/camelinaction-master/chapter2/spring"/>
+			<item value="/Users/SaiKiran/Downloads/camelinaction-master/chapter2/cbr"/>
+			<item value="/Users/SaiKiran/Downloads/camelinaction-master/chapter2/filter"/>
+			<item value="/Users/SaiKiran/Downloads/camelinaction-master/chapter2/ftp-jms"/>
+			<item value="/Users/SaiKiran/Downloads/camelinaction-master/chapter2/multicast"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="342" key="DIALOG_X_ORIGIN"/>
+		<item value="202" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item value="525" key="DIALOG_WIDTH"/>
+		<item value="1|.SF NS Text|11.0|0|COCOA|1|.SFNSText" key="DIALOG_FONT_NAME"/>
+		<item value="532" key="DIALOG_HEIGHT"/>
+		<item value="250" key="DIALOG_X_ORIGIN"/>
+		<item value="22" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

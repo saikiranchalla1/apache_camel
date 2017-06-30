@@ -33,7 +33,7 @@ public class XmlOrderNamespaceTest extends CamelSpringTestSupport {
 
     @Override
     protected AbstractXmlApplicationContext createApplicationContext() {
-        return new ClassPathXmlApplicationContext("camelinaction/xmlOrderNamespace.xml");
+        return new ClassPathXmlApplicationContext("camelnp/xmlOrderNamespace.xml");
     }
 
     @Override
@@ -49,7 +49,7 @@ public class XmlOrderNamespaceTest extends CamelSpringTestSupport {
 
         // prepare a XML document from a String which is converted to a DOM
         // notice we have included the namespace in the XML
-        String body = "<order xmlns=\"http://camelinaction.com/order\" customerId=\"4444\"><item>Camel in action</item></order>";
+        String body = "<order xmlns=\"http://camelnp.com/order\" customerId=\"4444\"><item>Camel in action</item></order>";
         Document xml = context.getTypeConverter().convertTo(Document.class, body);
 
         // store the order as a file which is picked up by the route

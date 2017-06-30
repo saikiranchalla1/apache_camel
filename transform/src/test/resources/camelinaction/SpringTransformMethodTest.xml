@@ -22,7 +22,7 @@
        http://camel.apache.org/schema/spring http://camel.apache.org/schema/spring/camel-spring.xsd
     ">
 
-    <bean id="htmlBean" class="camelinaction.HtmlBean"/>
+    <bean id="htmlBean" class="camelnp.HtmlBean"/>
 
     <camelContext trace="true" id="camel" xmlns="http://camel.apache.org/schema/spring">
         <route>
